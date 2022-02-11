@@ -105,3 +105,4 @@
  4、千帆玉符人员组织信息同步成功，下次登录神笔平台时，请通过千帆玉符扫码登录。 
 
 ![1643102784965](https://qcloudimg.tencent-cloud.cn/raw/de385c5bc184997aec7ae15f4449cace.png)
+
